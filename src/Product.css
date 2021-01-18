@@ -22,6 +22,7 @@
 .product_info {
   height: 100px;
   margin-bottom: 15px;
+  object-fit: scale-down;
 }
 
 .product_price {

@@ -14,11 +14,11 @@ function Checkout() {
                     <h2 className="checkout_title">
                         Your Shopping Cart
                     </h2>
-                    {/* CartItem */}
-                    {/* CartItem */}
-                    {/* CartItem */}
-                    {/* CartItem */}
-                    {/* CartItem */}
+                    {/* CheckoutProduct */}
+                    {/* CheckoutProduct */}
+                    {/* CheckoutProduct */}
+                    {/* CheckoutProduct */}
+                    {/* CheckoutProduct */}
                 </div>
             </div>
 
